@@ -98,3 +98,4 @@ C:\Users\erikv\OneDrive\Рабочий стол\practice2026\practice2026\task01
 C:\Users\erikv\OneDrive\Рабочий стол\practice2026\practice2026\task01tests\obj\Debug\net10.0\task01tests.pdb
 C:\Users\erikv\OneDrive\Рабочий стол\practice2026\practice2026\task01tests\obj\Debug\net10.0\task01tests.genruntimeconfig.cache
 C:\Users\erikv\OneDrive\Рабочий стол\practice2026\practice2026\task01tests\obj\Debug\net10.0\ref\task01tests.dll
+C:\Users\erikv\OneDrive\Рабочий стол\practice2026\practice2026\task01tests\obj\Debug\net10.0\task01tests.sourcelink.json
